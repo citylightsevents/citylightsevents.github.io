@@ -1,0 +1,590 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.citylights.events" resolutions="1x,2x" timestamp="1490599151220">
+  <folder name="css">
+    <file name="site_global.css" crc="3762041102"/>
+    <file name="master_master.css" crc="3781993574" ref="frank-sings-frank:terms-and-conditions:venues:services:in-open-air:index:contact:the-story-of-bone:privacy-policy"/>
+    <file name="nomq_preview_master_master.css" crc="229865956" ref="frank-sings-frank:terms-and-conditions:venues:services:in-open-air:index:contact:the-story-of-bone:privacy-policy"/>
+    <file name="master_header.css" crc="4118793094" ref="frank-sings-frank:terms-and-conditions:programming:venues:services:in-open-air:index:contact:the-story-of-bone:privacy-policy"/>
+    <file name="nomq_preview_master_header.css" crc="451777325" ref="frank-sings-frank:terms-and-conditions:programming:venues:services:in-open-air:index:contact:the-story-of-bone:privacy-policy"/>
+    <file name="frank-sings-frank.css" crc="3872650874" ref="frank-sings-frank"/>
+    <file name="nomq_frank-sings-frank.css" crc="14661554" ref="frank-sings-frank"/>
+    <file name="terms-and-conditions.css" crc="4083943472" ref="terms-and-conditions"/>
+    <file name="nomq_terms-and-conditions.css" crc="167460014" ref="terms-and-conditions"/>
+    <file name="programming.css" crc="4076824570" ref="programming"/>
+    <file name="nomq_programming.css" crc="3812750996" ref="programming"/>
+    <file name="venues.css" crc="4221611732" ref="venues"/>
+    <file name="nomq_venues.css" crc="4111373255" ref="venues"/>
+    <file name="services.css" crc="4164191674" ref="services"/>
+    <file name="nomq_services.css" crc="4028642617" ref="services"/>
+    <file name="in-open-air.css" crc="4277721781" ref="in-open-air"/>
+    <file name="nomq_in-open-air.css" crc="329580248" ref="in-open-air"/>
+    <file name="index.css" crc="277411070" ref="index"/>
+    <file name="nomq_index.css" crc="3990721503" ref="index"/>
+    <file name="contact.css" crc="4249978727" ref="contact"/>
+    <file name="nomq_contact.css" crc="355120327" ref="contact"/>
+    <file name="the-story-of-bone.css" crc="4137518860" ref="the-story-of-bone"/>
+    <file name="nomq_the-story-of-bone.css" crc="3884462219" ref="the-story-of-bone"/>
+    <file name="privacy-policy.css" crc="469573851" ref="privacy-policy"/>
+    <file name="nomq_privacy-policy.css" crc="176870244" ref="privacy-policy"/>
+  </folder>
+  <folder name="fonts">
+    <file name="museosans_300-webfont.woff" crc="3857684984"/>
+    <file name="museosans_300-webfont.eot" crc="62723201"/>
+    <file name="museosans_300-webfont.svg" crc="3832213807"/>
+    <file name="museosans_500-webfont.woff" crc="255835544"/>
+    <file name="museosans_500-webfont.eot" crc="3949979032"/>
+    <file name="museosans_500-webfont.svg" crc="431445623"/>
+    <file name="nexa_free_light-webfont.woff" crc="4290364900"/>
+    <file name="nexa_free_light-webfont.eot" crc="4269578598"/>
+    <file name="nexa_free_light-webfont.svg" crc="286331304"/>
+    <file name="museosans_100-webfont.woff" crc="3931585452"/>
+    <file name="museosans_100-webfont.eot" crc="4066685798"/>
+    <file name="museosans_100-webfont.svg" crc="208784381"/>
+  </folder>
+  <folder name="assets">
+    <file name="boneprofilecropped-.jpg" crc="4135237988" seo="true" mt="1489562040000"/>
+    <file name="inside-piano-short-1280.webm" crc="3473633" seo="true" mt="1489600304000"/>
+    <file name="inside-piano-poster.png" crc="10810985" seo="true" mt="1489645155000"/>
+    <file name="le-moulin-de-la-galette.jpg" crc="409484670" seo="true" mt="1490243524000"/>
+    <file name="lg.eot" crc="196672403" seo="true" mt="1461584296000"/>
+    <file name="lg.svg" crc="466834863" seo="true" mt="1461584296000"/>
+    <file name="lg.ttf" crc="288589608" seo="true" mt="1461584296000"/>
+    <file name="lg.woff" crc="4131552084" seo="true" mt="1461584296000"/>
+    <file name="play-button.svg" crc="3764599469" seo="true" mt="1489648045000"/>
+    <file name="pause-button.svg" crc="531732815" seo="true" mt="1489648133000"/>
+    <file name="frank-trumpet.webm" crc="3804773256" seo="true" mt="1490174253000"/>
+    <file name="frank-bray-1.jpg" crc="4088823752" seo="true" mt="1490243111000"/>
+    <file name="frank-bray-2.jpg" crc="263663201" seo="true" mt="1490243112000"/>
+    <file name="frank-bray-3.jpg" crc="4239983606" seo="true" mt="1490243112000"/>
+    <file name="frank-bray-4.jpg" crc="161599149" seo="true" mt="1490243112000"/>
+    <file name="frank-bray-5.jpg" crc="3938205457" seo="true" mt="1490243112000"/>
+    <file name="frank-bray-6.jpg" crc="4275073506" seo="true" mt="1490243112000"/>
+    <file name="frank-trumpet-closeup.jpg" crc="26011499" seo="true" mt="1490243844000"/>
+    <file name="bone-lhamo-kyap---long-long-time-ago.webm" crc="4022557002" seo="true" mt="1490257801000"/>
+    <file name="bone-on-stage.jpg" crc="3987463711" seo="true" mt="1490257963000"/>
+    <file name="frank-bray-7.jpg" crc="4226571634" seo="true" mt="1490244069000"/>
+    <file name="frank-bray-8.jpg" crc="4229078847" seo="true" mt="1490244075000"/>
+    <file name="bone-1.jpg" crc="106180244" seo="true" mt="1490258671000"/>
+    <file name="bone-2.jpg" crc="334575132" seo="true" mt="1490258671000"/>
+    <file name="bone-3.jpg" crc="171448999" seo="true" mt="1490258671000"/>
+    <file name="bone-4.jpg" crc="4178581386" seo="true" mt="1490258671000"/>
+    <file name="bone-5.jpg" crc="3974197558" seo="true" mt="1490258671000"/>
+    <file name="bone-6.jpg" crc="435086663" seo="true" mt="1490258671000"/>
+    <file name="claude_monet_-_jardin_à_sainte-adresse.jpg" crc="4022613225" seo="true" mt="1490263164000"/>
+    <file name="claude_debussy_-_première_arabesque_-_patrizia_prati.webm" crc="3956379823" seo="true" mt="1490262547000"/>
+    <file name="bone-sitting-on-stage.jpg" crc="4074307619" seo="true" mt="1490262729000"/>
+    <file name="claude_monet,_impression,_soleil_levant.jpg" crc="412676810" seo="true" mt="1490264565000"/>
+    <file name="dongguan---029.jpg" crc="4182415072" seo="true" mt="1490268006000"/>
+    <file name="dongguan---020.jpg" crc="4187356550" seo="true" mt="1490268005000"/>
+    <file name="dongguan---034.jpg" crc="3961529976" seo="true" mt="1490268007000"/>
+    <file name="shenyang---058.jpg" crc="4280885376" seo="true" mt="1490268007000"/>
+    <file name="maurice-ravel-photos.jpg" crc="4118532090" seo="true" mt="1490341200000"/>
+    <file name="ericsatie.jpg" crc="3947865694" seo="true" mt="1490341202000"/>
+    <file name="claude_monet_-_woman_with_a_parasol_-_madame_monet_and_her_son_-_google_art_project.jpg" crc="269604534" seo="true" mt="1490341203000"/>
+    <file name="sisley-bridge_at_villeneuve-la-garenne.jpg" crc="127508155" seo="true" mt="1490341201000"/>
+    <file name="hay_harvest_at_éragny,_1901,_camille_pissarro.jpg" crc="203665605" seo="true" mt="1490341202000"/>
+    <file name="claude-debussy.jpg" crc="3867334152" seo="true" mt="1490341202000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="venues:contact:terms-and-conditions:privacy-policy:index:programming:services:frank-sings-frank:the-story-of-bone:in-open-air"/>
+    <file name="museutils.js" crc="4232573551" ref="venues:contact:terms-and-conditions:privacy-policy:index:programming:services:frank-sings-frank:the-story-of-bone:in-open-air"/>
+    <file name="whatinput.js" crc="86476730" ref="venues:contact:terms-and-conditions:privacy-policy:index:programming:services:frank-sings-frank:the-story-of-bone:in-open-air"/>
+    <file name="museconfig.js" crc="4152223963" ref="venues:contact:terms-and-conditions:privacy-policy:index:programming:services:frank-sings-frank:the-story-of-bone:in-open-air"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="venues:contact:terms-and-conditions:privacy-policy:index:programming:services:frank-sings-frank:the-story-of-bone:in-open-air"/>
+    <file name="webpro.js" crc="3770351119" ref="venues:contact:terms-and-conditions:privacy-policy:index:programming:services:frank-sings-frank:the-story-of-bone:in-open-air"/>
+    <file name="musewpdisclosure.js" crc="347705465" ref="venues:contact:terms-and-conditions:privacy-policy:index:programming:services:frank-sings-frank:the-story-of-bone:in-open-air"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="venues:contact:terms-and-conditions:privacy-policy:index:programming:services:frank-sings-frank:the-story-of-bone:in-open-air"/>
+    <file name="require.js" crc="4234670167" ref="venues:contact:terms-and-conditions:privacy-policy:index:programming:services:frank-sings-frank:the-story-of-bone:in-open-air"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="76582477" ref="venues"/>
+    <file name="citylights-logo-white.svg" crc="4185382425" seo="true" ref="venues:contact:terms-and-conditions:privacy-policy:index:programming:services:frank-sings-frank:the-story-of-bone:in-open-air">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="terms-and-conditions" alt=""/>
+      <caption webpage="terms-and-conditions" alt=""/>
+      <caption webpage="terms-and-conditions" alt=""/>
+      <caption webpage="terms-and-conditions" alt=""/>
+      <caption webpage="terms-and-conditions" alt=""/>
+      <caption webpage="terms-and-conditions" alt=""/>
+      <caption webpage="terms-and-conditions" alt=""/>
+      <caption webpage="venues" alt=""/>
+      <caption webpage="venues" alt=""/>
+      <caption webpage="venues" alt=""/>
+      <caption webpage="venues" alt=""/>
+      <caption webpage="venues" alt=""/>
+      <caption webpage="venues" alt=""/>
+      <caption webpage="venues" alt=""/>
+      <caption webpage="venues" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="programming" alt=""/>
+      <caption webpage="programming" alt=""/>
+      <caption webpage="programming" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+    </file>
+    <file name="citylights logo white_poster_.png" crc="345723633" ref="venues"/>
+    <file name="youtube-logo.svg" crc="3828321528" seo="true" ref="venues:contact:terms-and-conditions:privacy-policy:index:services:frank-sings-frank:the-story-of-bone:in-open-air">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="terms-and-conditions" alt=""/>
+      <caption webpage="terms-and-conditions" alt=""/>
+      <caption webpage="terms-and-conditions" alt=""/>
+      <caption webpage="terms-and-conditions" alt=""/>
+      <caption webpage="terms-and-conditions" alt=""/>
+      <caption webpage="terms-and-conditions" alt=""/>
+      <caption webpage="venues" alt=""/>
+      <caption webpage="venues" alt=""/>
+      <caption webpage="venues" alt=""/>
+      <caption webpage="venues" alt=""/>
+      <caption webpage="venues" alt=""/>
+      <caption webpage="venues" alt=""/>
+      <caption webpage="venues" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+    </file>
+    <file name="youtube logo_poster_.png" crc="377896817" ref="venues"/>
+    <file name="facebook-icon.svg" crc="72390436" seo="true" ref="venues:contact:terms-and-conditions:privacy-policy:index:services:frank-sings-frank:the-story-of-bone:in-open-air">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="terms-and-conditions" alt=""/>
+      <caption webpage="terms-and-conditions" alt=""/>
+      <caption webpage="terms-and-conditions" alt=""/>
+      <caption webpage="terms-and-conditions" alt=""/>
+      <caption webpage="terms-and-conditions" alt=""/>
+      <caption webpage="terms-and-conditions" alt=""/>
+      <caption webpage="venues" alt=""/>
+      <caption webpage="venues" alt=""/>
+      <caption webpage="venues" alt=""/>
+      <caption webpage="venues" alt=""/>
+      <caption webpage="venues" alt=""/>
+      <caption webpage="venues" alt=""/>
+      <caption webpage="venues" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+    </file>
+    <file name="facebook icon_poster_.png" crc="4065139107" ref="venues"/>
+    <file name="twitter-icon.svg" crc="4291359101" seo="true" ref="venues:contact:terms-and-conditions:privacy-policy:index:services:frank-sings-frank:the-story-of-bone:in-open-air">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="terms-and-conditions" alt=""/>
+      <caption webpage="terms-and-conditions" alt=""/>
+      <caption webpage="terms-and-conditions" alt=""/>
+      <caption webpage="terms-and-conditions" alt=""/>
+      <caption webpage="terms-and-conditions" alt=""/>
+      <caption webpage="terms-and-conditions" alt=""/>
+      <caption webpage="venues" alt=""/>
+      <caption webpage="venues" alt=""/>
+      <caption webpage="venues" alt=""/>
+      <caption webpage="venues" alt=""/>
+      <caption webpage="venues" alt=""/>
+      <caption webpage="venues" alt=""/>
+      <caption webpage="venues" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+    </file>
+    <file name="twitter icon_poster_.png" crc="4158867967" ref="venues"/>
+    <file name="hamburger icon.svg" crc="366117560" ref="venues:contact:index:programming"/>
+    <file name="hamburger icon_poster_u199767.png" crc="37551992" ref="venues:contact:index:programming"/>
+    <file name="hamburger icon close.svg" crc="3917257705" ref="venues:contact:index:programming"/>
+    <file name="hamburger icon close_poster_u199759.png" crc="4126777813" ref="venues:contact:index:programming"/>
+    <file name="blank.gif" crc="4208392903" ref="venues:contact:terms-and-conditions:privacy-policy:index:programming:services:frank-sings-frank:the-story-of-bone:in-open-air"/>
+    <file name="map.jpg" crc="3916646559" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="map_2x.jpg" crc="4037310467" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="map-crop-u281757.jpg" crc="3814225495" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="map-crop-u281757_2x.jpg" crc="12834424" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="map-crop-u2817572.jpg" crc="3814225495" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="map-crop-u281757_2x2.jpg" crc="12834424" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="map-crop-u2817573.jpg" crc="157126426" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="map-crop-u281757_2x3.jpg" crc="88694669" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="map-crop-u2817574.jpg" crc="157126426" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="map-crop-u281757_2x4.jpg" crc="88694669" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="map-crop-u2817575.jpg" crc="157126426" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="map-crop-u281757_2x5.jpg" crc="88694669" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="map-crop-u2817576.jpg" crc="470031285" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="map-crop-u281757_2x6.jpg" crc="4270096386" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="map-crop-u2817577.jpg" crc="470031285" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="map-crop-u281757_2x7.jpg" crc="4270096386" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="map-crop-u2817578.jpg" crc="470031285" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="map-crop-u281757_2x8.jpg" crc="4270096386" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="top-arrow-white.svg" crc="3787792211" seo="true" ref="terms-and-conditions:privacy-policy">
+      <caption webpage="terms-and-conditions" alt=""/>
+      <caption webpage="terms-and-conditions" alt=""/>
+      <caption webpage="terms-and-conditions" alt=""/>
+      <caption webpage="terms-and-conditions" alt=""/>
+      <caption webpage="terms-and-conditions" alt=""/>
+      <caption webpage="terms-and-conditions" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+    </file>
+    <file name="top arrow white_poster_.png" crc="85306253" ref="terms-and-conditions"/>
+    <file name="frank trumpet player.png" crc="268241058" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frank guitarist.png" crc="3913246762" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frank trumpet player-crop-u253092.png" crc="3936638249" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frank guitarist-crop-u252603.png" crc="501875824" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frank bray closeup.png" crc="4116238732" seo="true" ref="frank-sings-frank">
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+    </file>
+    <file name="photographs-icon.svg" crc="4176582926" seo="true" ref="frank-sings-frank:the-story-of-bone:in-open-air">
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="frank-sings-frank" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+    </file>
+    <file name="photographs icon_poster_.png" crc="3869110384" ref="frank-sings-frank"/>
+    <file name="bone closeup.png" crc="67947932" seo="true" ref="the-story-of-bone">
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+      <caption webpage="the-story-of-bone" alt=""/>
+    </file>
+    <file name="ravel at desk.png" crc="223142177" seo="true" ref="in-open-air">
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+      <caption webpage="in-open-air" alt=""/>
+    </file>
+  </folder>
+  <file name="venues.html" crc="4277232129" seo="true" mt="1490341686047" redirect="true"/>
+  <file name="contact.html" crc="4128478717" seo="true" mt="1490340983118" redirect="true"/>
+  <file name="terms-and-conditions.html" crc="4220653528" seo="true" mt="1490341607595" redirect="true"/>
+  <file name="privacy-policy.html" crc="253134708" seo="true" mt="1490341609917" redirect="true"/>
+  <file name="index.html" crc="191649321" seo="true" mt="1490336452110" redirect="true"/>
+  <file name="programming.html" crc="353234988" seo="true" mt="1490332959769" redirect="true"/>
+  <file name="services.html" crc="158190683" seo="true" mt="1490340991897" redirect="true"/>
+  <file name="frank-sings-frank.html" crc="3936188240" seo="true" mt="1490336452111" redirect="true"/>
+  <file name="the-story-of-bone.html" crc="4282146011" seo="true" mt="1490336452112" redirect="true"/>
+  <file name="in-open-air.html" crc="87348745" seo="true" mt="1490341365904" redirect="true"/>
+</manifest>
