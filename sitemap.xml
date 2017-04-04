@@ -32,7 +32,7 @@
   </url>
   <url>
     <loc>http://www.citylights.events/in-open-air.html</loc>
-    <lastmod>2017-03-24</lastmod>
+    <lastmod>2017-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -56,7 +56,7 @@
   </url>
   <url>
     <loc>http://www.citylights.events/the-story-of-bone.html</loc>
-    <lastmod>2017-03-24</lastmod>
+    <lastmod>2017-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -80,7 +80,7 @@
   </url>
   <url>
     <loc>http://www.citylights.events/frank-sings-frank.html</loc>
-    <lastmod>2017-03-24</lastmod>
+    <lastmod>2017-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -376,12 +376,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.citylights.events/assets/claude_debussy_-_premi%C3%A8re_arabesque_-_patrizia_prati.webm</loc>
-    <lastmod>2017-03-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.citylights.events/assets/bone-sitting-on-stage.jpg</loc>
     <lastmod>2017-03-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -450,6 +444,12 @@
   <url>
     <loc>http://www.citylights.events/assets/claude-debussy.jpg</loc>
     <lastmod>2017-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.citylights.events/assets/clairmonet.webm</loc>
+    <lastmod>2017-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
