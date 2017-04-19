@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.citylights.events/index.html</loc>
-    <lastmod>2017-03-24</lastmod>
+    <lastmod>2017-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -31,32 +31,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://www.citylights.events/in-open-air.html</loc>
-    <lastmod>2017-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.citylights.events/images/citylights-logo-white.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.citylights.events/images/youtube-logo.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.citylights.events/images/facebook-icon.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.citylights.events/images/twitter-icon.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.citylights.events/images/photographs-icon.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.citylights.events/images/ravel%20at%20desk.png</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://www.citylights.events/the-story-of-bone.html</loc>
-    <lastmod>2017-03-27</lastmod>
+    <lastmod>2017-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -79,8 +55,41 @@
     </image:image>
   </url>
   <url>
+    <loc>http://www.citylights.events/in-open-air.html</loc>
+    <lastmod>2017-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.citylights.events/images/citylights-logo-white.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.citylights.events/images/youtube-logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.citylights.events/images/facebook-icon.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.citylights.events/images/twitter-icon.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.citylights.events/images/photographs-icon.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.citylights.events/images/zhi%20yin%20portrait1079x720.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.citylights.events/images/zhi%20yin%20portrait1079x720_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.citylights.events/images/zhi%20yin%20portrait.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.citylights.events/images/zhi%20yin%20portrait_2x.png</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://www.citylights.events/frank-sings-frank.html</loc>
-    <lastmod>2017-03-27</lastmod>
+    <lastmod>2017-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -245,7 +254,7 @@
   </url>
   <url>
     <loc>http://www.citylights.events/venues.html</loc>
-    <lastmod>2017-03-24</lastmod>
+    <lastmod>2017-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -454,6 +463,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.citylights.events/assets/jenny-and-ryan-71.jpg</loc>
+    <lastmod>2017-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.citylights.events/assets/lg.woff</loc>
     <lastmod>2016-04-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -496,14 +511,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.citylights.events/assets/boneprofilecropped-.jpg</loc>
-    <lastmod>2017-03-15</lastmod>
+    <loc>http://www.citylights.events/assets/bone-4.jpg</loc>
+    <lastmod>2017-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.citylights.events/assets/bone-4.jpg</loc>
-    <lastmod>2017-03-23</lastmod>
+    <loc>http://www.citylights.events/assets/boneprofilecropped-.jpg</loc>
+    <lastmod>2017-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
